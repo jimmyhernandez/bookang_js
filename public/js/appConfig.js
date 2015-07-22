@@ -15,5 +15,5 @@ app.config(['$stateProvider','$urlRouterProvider',function($stateProvider,$urlRo
       controller: 'AnotherController'
     });
   
-  $urlRouterProvider.otherwise('/');
+  $urlRouterProvider.otherwise('/home');
 }]);

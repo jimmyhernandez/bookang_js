@@ -1,5 +1,3 @@
-app.controller('EmailController',['$scope',function($scope){
-  $scope.title = 'z';
-  $scope.message = 'Message';
-  $scope.message2 = 'Message2';
+app.controller('EmailController',['$scope','content',function($scope,content){
+  console.log(content.getConfiguration());
 }]);

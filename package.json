@@ -1,0 +1,29 @@
+{
+  "name": "emailapp",
+  "version": "1.0.0",
+  "description": "This is a basic app to practice knowledge about angular",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimmyhernandez/bookang_js.git"
+  },
+  "keywords": [
+    "angular",
+    "node",
+    "practice"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyhernandez/bookang_js/issues"
+  },
+  "homepage": "https://github.com/jimmyhernandez/bookang_js"
+}

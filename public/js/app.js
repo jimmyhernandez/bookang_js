@@ -1,0 +1,1 @@
+var app = angular.module('EmailApp',['ui.router']);
